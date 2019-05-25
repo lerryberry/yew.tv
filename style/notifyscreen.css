@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../images/stripes.png);
+}
+div.center{
+	position:absolute;
+	margin-left:-400px;
+	margin-top:-50px;
+	top:50%;
+	left:50%;
+	width:800px;
+	height:100px;
+	background-color:#FFF;
+	font-size:24px;
+	font-weight:bold;
+	font-style:italic;
+	font-family:calibri;
+	text-align:center;
+	border:thin; 
+	border-style: solid;
+	border-color:#900;
+	color:#900; 
+}

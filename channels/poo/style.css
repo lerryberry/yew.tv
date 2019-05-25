@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* background */
+body{
+	background-color:#000;
+}
+/* Title and username */
+h1{
+	font-family:calibri;
+	color:#000;
+	background-color:#FFF;
+}
+/* Right hand arrow */
+a#right{
+	color:white;
+}
+/* Left hand arrow */
+a#left{
+	color:white;
+}
+/* Text under video */
+t{
+	font-size:25px;
+	color:#FFF;
+}
+/* line at bottom of screen */
+hr{
+	margin-top:0px;
+	border: 0;
+    height: 1px;
+    background: #333;
+    background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image:    -moz-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image:      -o-linear-gradient(left, #ccc, #333, #ccc); 
+}
+/* info */
+h2{
+	color:white;
+	font-family:calibri;
+}
